@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "",
+  "authors": [
+    "vikas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.6",
+    "routes": "^0.5.18"
+  }
+}
